@@ -4,6 +4,8 @@
   "singleQuote": false,
   "trailingComma": "none",
   "singleAttributePerLine": true,
-  "bracketSameLine": true,
-  "printWidth": 120
+  "bracketSameLine": false,
+  "printWidth": 120,
+  "useTabs": false,
+  "tabWidth": 2
 }

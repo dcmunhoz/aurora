@@ -1,1 +1,20 @@
 /* You can add global styles to this file, and also import other style files */
+
+:root {
+  --default-font-size: 16px;
+  --default-black: #2b2b2b;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+  position: relative;
+  font-family: "Lato", sans-serif;
+  color: var(--default-black);
+  outline: none;
+}
+
+html {
+  font-size: 100%;
+}
